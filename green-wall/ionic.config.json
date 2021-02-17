@@ -1,0 +1,7 @@
+{
+  "name": "green-wall",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
