@@ -3,7 +3,7 @@
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "green wall",
+      "name": "GreenWall",
       "installMode": "prefetch",
       "resources": {
         "files": [

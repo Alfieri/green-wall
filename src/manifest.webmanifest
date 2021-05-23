@@ -1,6 +1,6 @@
 {
-  "name": "green-wall",
-  "short_name": "green-wall",
+  "name": "Green Wall",
+  "short_name": "Green Wall",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
